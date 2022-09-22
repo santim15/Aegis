@@ -15,6 +15,6 @@ El usuario será quien utilice la aplicación y sus funcionalidades de forma gra
 
 Sin embargo, se baraja la posibilidad de hacer del servicio uno de pago, lo que haría que el usuario también fuera cliente, sin excluir la posibilidad original de que los clientes fueran entidades comerciales.
 
-##Documentación adicional
+## Documentación adicional
 Configuración de GitHub:
 https://github.com/santim15/Aegis/tree/Objetivo-0/gitconf
