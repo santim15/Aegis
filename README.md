@@ -14,3 +14,7 @@ La idea es que el cliente y el usuario sean diferentes.
 El usuario será quien utilice la aplicación y sus funcionalidades de forma gratuita, mientras que los clientes serán los supermercados, marcas o cualquier entidad en recopilar datos referentes a, por ejemplo, la popularidad de algún producto.
 
 Sin embargo, se baraja la posibilidad de hacer del servicio uno de pago, lo que haría que el usuario también fuera cliente, sin excluir la posibilidad original de que los clientes fueran entidades comerciales.
+
+##Documentación adicional
+Configuración de GitHub:
+https://github.com/santim15/Aegis/tree/Objetivo-0/gitconf
