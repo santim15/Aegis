@@ -3,10 +3,11 @@
 
 
 ## Problema a solucionar
-El descontrol y la dificultad que supone llevar una cuenta de las calorías diarias/semanales/mensuales y la relación carbohidratos/proteina/grasas en la dieta
+Escoger una dieta a seguir
 
 ### Cómo se pretende solucionarlo
-A partir de unos datos que introduce el usuario, generar datos como el número de calorias máximas que debería consumir en un día, desglosado en carbohidratos, proteinas y grasas, permitiendo al usuario introducir los productos que consume para llevar un registro adecuado.
+A partir de unos datos que introduce el usuario como el peso, la altura y si desea mantener, perder o ganar peso, generar una dieta y varios datos asociados como, por ejemplo, la cantidad de calorías diarias a consumir.
+En las posibles funcionalidades, se baraja permitir al usuario comprar algunos productos de la dieta de forma online o consultar en qué tienda cercana puede obtenerlos, o por ejemplo elegir entre varios alimentos ya introducidos (de serie o por otros usuarios) para que aparezcan en la dieta.
 
 ## Lógica de negocio
 La idea es que el cliente y el usuario sean diferentes.
